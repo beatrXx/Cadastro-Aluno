@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/27 16:09:30.000.736,=D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/27 16:48:53.000.416,D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\trabalhoIGORcerto.dfm</Transaction>
+    <Transaction>2020/02/27 16:48:53.000.416,D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\trabalhoIGORcerto.pas</Transaction>
+    <Transaction>2020/02/27 16:49:04.000.090,D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Users\Miguel Marques\Documents\Embarcadero\Studio\Projects\projetoigorCERTO.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
